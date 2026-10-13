@@ -2,7 +2,7 @@
 // @name         classroom-42-automator
 // @namespace    https://github.com/xfwmk/classroom-42-bot/
 // @version      1
-// @description  Smartrevise autosolver
+// @description  classroom42 automator
 // @match        https://www.classroom42.com/courses/*
 // @connect      api.groq.com
 // @copyright    xfwmk - opel - kian
